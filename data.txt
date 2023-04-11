@@ -1,0 +1,14 @@
+Pek Maria 06702347345 caksi@gmail.com 2
+BME420 Nissan 2023.10.13 3
+olajcsere 2021.10.12 14500
+kerekcsere 2022.11.24 20000
+megmunkalas 2022.12.5 4000
+FGH234 kocsi 2002.12.12 1
+kicsikocsi 2022.12.5 4000
+
+Toth Odon 06201238765 tothodon@gmail.com 2
+CAT123 Ford 2021.12.10 2
+mosas 2020.10.12 4000
+kerekcsere 2020.10.11 400
+CVB345 mini 2022.11.11 1
+csiszolas 2022.12.6 4000
